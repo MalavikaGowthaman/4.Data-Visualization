@@ -1,0 +1,7 @@
+1 - Find the percentage of degree choosen based on gender and schooling?
+2 - What is the status of entrance test pass based on gender, degree?
+3 - Which degree domain people is higher in mba pass?
+4 - How many people have work exp based on gender?
+5 - How many people got placed and not placed, based on gender and school boards?
+6 - which specialization have experienced workers?
+7 - which gender peoples are less placed and not placed?
